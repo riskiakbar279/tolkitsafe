@@ -5,6 +5,11 @@ nav {
 	z-index: 99;
 	top: 0;
 }
+
+body {
+      background-color: orange;
+
+}
 #post nav {
 	background-color: #673AB7 !important;
 } 
